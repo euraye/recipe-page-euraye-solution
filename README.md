@@ -77,7 +77,7 @@ In future projects, I want to continue improving my skills with responsive desig
 
 ## Author
 
-- Website - [Add your name here](https://recipe-page-euraye-solution.vercel.app/)
+- Website - [euraye - Vercel](https://recipe-page-euraye-solution.vercel.app/)
 - Frontend Mentor - [@euraye](https://www.frontendmentor.io/profile/euraye)
 
 
